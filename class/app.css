@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#box {
+    height: 190px;
+    width: 220px;
+    background-color: aqua;
+    margin: 40px 40px;
+    border: 2px solid black;
+}
